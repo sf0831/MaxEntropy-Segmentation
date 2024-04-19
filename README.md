@@ -6,7 +6,6 @@ This code implements MaxEntropy-based segmentation method tailored for detecting
 ## Output 
 Input image resource = kagel website
 `https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset`
-
 ![Figure_1](https://github.com/sf0831/MaxEntropy-Segmentation/assets/81633609/3a15859f-ae9e-472d-bcf2-d66432cd2a5b)
 
 ## How it Works:
